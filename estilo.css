@@ -90,6 +90,9 @@ header .contactos .contenido {
 	padding: 14px 10px
 }
 
+#valores .w3-row img {
+	width: 170px; 
+}
 
 #servicios {
 	background-color: #f8f4f4;
