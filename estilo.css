@@ -33,6 +33,10 @@ hr{ border:#333 solid 1px;}
 	padding:0 10px
 }
 
+.contenido-small {
+	max-width: 900px;
+}
+
 
 .fgris {background-color: #363436}
 .famarillo {background-color:#f1a042}
