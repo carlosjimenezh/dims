@@ -59,12 +59,70 @@
     </section>
 
     <section id="servicios" class="contenido">
-
+        <h2 class="contenido contenido-small w3-center">Servicios</h2>
+        <div class="contenido-small">
+            <h1>Proyectos Habitacionales o comerciales</h1>
+            <ul>
+                <li>Desarrollo arquitectónico</li>
+                <li>Presupuesto y calendarización de obra</li>
+                <li>Administración de obra</li>
+                <li>Ejecución de obra.</li>
+                <li>Nivelado y compactación de terrenos</li>
+            </ul>
+        </div>
+        <div class="w3-row">
+            <div class="w3-third mitadizq">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadcentro">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadder">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadizq">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadcentro">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadder">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+        </div>
+        <div class="contenido-small">
+            <h1>Acabados, remodelaciones y más</h1>
+            <ul>
+                <li>Aplanado de muros</li>
+                <li>Pisos y recubrimientos</li>
+                <li>Muebles de baños</li>
+                <li>Carpintería (muebles de baño, cocinas, closets, pérgolas, etc.)</li>
+            </ul>
+        </div>
+        <div class="w3-row">
+            <div class="w3-third mitadizq">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadcentro">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadder">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadizq">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadcentro">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-third mitadder">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+        </div>
     </section>
 
-    <section id="lo-que-hacemos">
-        <div class="contenido"></div>
-
+    <section id="lo-que-hacemos" class="contenido">
+        
     </section>
 
     <section id="contacto">
