@@ -16,8 +16,11 @@
         <div class="contenido txtgris">
             <div class="w3-half">
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Inicio</a>
+                <span class="w3-bar-item">&bull;</span>
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Nosotros</a>
+                <span class="w3-bar-item">&bull;</span>
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Galería de servicios</a>
+                <span class="w3-bar-item">&bull;</span>
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Contacto</a>
             </div>
             <div class="w3-half w3-center">
