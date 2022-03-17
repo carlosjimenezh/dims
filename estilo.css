@@ -58,7 +58,8 @@ header .contactos .contenido {
 	display: flex;
 	gap: 0 30px;
 	justify-content: flex-start;
-	flex-wrap: wrap
+	flex-wrap: wrap;
+	padding: 14px 10px
 }
 
 
