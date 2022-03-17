@@ -121,12 +121,13 @@
         </div>
     </section>
 
-    <section id="lo-que-hacemos" class="contenido">
-        
+    <section id="lo-que-hacemos">
+        <div class="contenido">
+            <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
+        </div>
     </section>
 
     <section id="contacto">
-
     </section>
     
 
