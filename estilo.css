@@ -33,6 +33,8 @@ th, td {
 
 hr{ border:#333 solid 1px;}
 
+ul {padding-inline-start:15px}
+
 .cuerpo{ margin:auto; min-height:300px;}
 .contenido{
 	max-width:1200px;
