@@ -95,6 +95,11 @@ header .contactos .contenido {
 	background-color: #f8f4f4;
 }
 
+#servicios img {
+	margin-bottom: 15px;
+	width: 100%;
+}
+
 
 #collapsing-menu a {
 	margin-bottom: 10px;
