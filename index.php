@@ -12,7 +12,7 @@
 
     <section id="banner-principal">
         <img src="" alt="">
-        <div class="w3-row w3-center">
+        <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half">
                 <h2>Nosotros</h2>
                 <span>prueba</span>
