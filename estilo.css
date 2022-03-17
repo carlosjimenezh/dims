@@ -14,7 +14,14 @@ font-size:14px
 a {text-decoration: none;}
 h1,h2,h3 {font-family: 'montserrat',Arial, sans-serif;}
 h1 {font-size: 35px; color: black; margin-bottom: 0;}
-h2 {font-size: 30px; color: #2465b1; margin: 0;}
+h2 {
+	font-size: 50px; 
+	color: black; 
+	height: 30px;
+	line-height: .5;
+	margin: 0;
+	background-color: #f1a042;
+}
 h3 {font-size: 35px; color: black;}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
