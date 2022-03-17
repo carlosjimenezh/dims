@@ -13,7 +13,7 @@ font-size:14px
 
 a {text-decoration: none;}
 h1,h2,h3 {font-family: 'montserrat',Arial, sans-serif;}
-h1 {font-size: 35px; color: black; margin-bottom: 0;}
+h1 {font-size: 18px; color: black; margin-bottom: 0; font-weight: bold;}
 h2 {
 	font-size: 50px; 
 	color: #363436; 
