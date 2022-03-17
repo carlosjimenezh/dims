@@ -13,7 +13,7 @@
         </div>
     </div>
     <nav class="w3-bar famarillo">
-        <div class="contenido txtblanco">
+        <div class="contenido txtgris">
             <div class="w3-half">
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Inicio</a>
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Nosotros</a>
@@ -21,7 +21,7 @@
                 <a href="contacto.php" class="w3-bar-item w3-hide-small">Contacto</a>
             </div>
             <div class="w3-half w3-center">
-                    Ensenada, Baja California.
+                Ensenada, Baja California.
             </div>
             <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
             style="font-size: 2.5em" onclick="mostrarMenu()">

@@ -53,6 +53,10 @@ header .contenido {
 	margin: 0 auto;
 }
 
+header nav {
+	font-weight: bold;
+}
+
 
 header .contactos .contenido {
 	display: flex;
