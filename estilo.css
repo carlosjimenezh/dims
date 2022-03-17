@@ -103,6 +103,10 @@ header .contactos .contenido {
 	width: 100%;
 }
 
+#lo-que-hacemos {
+	background-color: #363436;
+}
+
 
 #collapsing-menu a {
 	margin-bottom: 10px;
