@@ -127,7 +127,26 @@
         </div>
     </section>
 
-    <section id="contacto">
+    <section id="contacto" class="contenido contenido-small">
+        <h2 class="w3-center">Contacto</h2>
+        <form action="" class="w3-row">
+            <div class="w3-half">
+                <label for="nombre">Nombre*:</label>
+                <input id="nombre" type="text" name="nombre">
+                <label for="horario">Horario:</label>
+                <input id="horario" type="text" name="horario">
+            </div>
+            <div class="w3-half">
+                <label for="telefono">Teléfono*:</label>
+                <input id="telefono" type="text" name="telefono">
+                <label for="correo">Correo:</label>
+                <input id="correo" type="text" name="correo">
+            </div>
+            <div>
+                <label for="mensaje">Mensaje*:</label>
+                <textarea name="mensaje" id="" cols="30" rows="10"></textarea>
+            </div>
+        </form>
     </section>
     
 
