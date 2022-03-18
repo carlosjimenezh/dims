@@ -144,7 +144,7 @@
             </div>
             <div>
                 <label for="mensaje">Mensaje*:</label>
-                <textarea name="mensaje" id="" cols="30" rows="10"></textarea>
+                <textarea name="mensaje" id="" cols="30" rows="7"></textarea>
             </div>
         </form>
     </section>
