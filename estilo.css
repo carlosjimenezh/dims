@@ -109,6 +109,13 @@ header .contactos .contenido {
 }
 
 
+#contacto input, #contacto label {display: block;}
+#contacto input, #contacto textarea{
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+
 #collapsing-menu a {
 	margin-bottom: 10px;
 }
