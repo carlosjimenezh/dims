@@ -32,27 +32,27 @@
         <div class="w3-row w3-center contenido contenido-small">
             <h2>Valores</h2>
             <div class="w3-third">
-                <img src="assets/circle.svg" alt="">
+                <img src="assets/valores/trabajo.png" alt="">
                 <h3>Trabajo en equipo.</h3>
             </div>
             <div class="w3-third">
-                <img src="assets/circle.svg" alt="">
+                <img src="assets/valores/respeto.png" alt="">
                 <h3>Respeto.</h3>
             </div>
             <div class="w3-third">
-                <img src="assets/circle.svg" alt="">
+                <img src="assets/valores/lealtad.png" alt="">
                 <h3>Lealtad al cliente.</h3>
             </div>
             <div class="w3-third">
-                <img src="assets/circle.svg" alt="">
+                <img src="assets/valores/seguridad.png" alt="">
                 <h3>Seguridad y bienestar de nuestro equipo de trabajo.</h3>
             </div>
             <div class="w3-third">
-                <img src="assets/circle.svg" alt="">
+                <img src="assets/valores/honestidad.png" alt="">
                 <h3>honestidad.</h3>
             </div>
             <div class="w3-third">
-                <img src="assets/circle.svg" alt="">
+                <img src="assets/valores/creatividad.png" alt="">
                 <h3>Creatividad.</h3>
             </div>
         </div>
