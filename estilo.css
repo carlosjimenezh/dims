@@ -108,9 +108,9 @@ header .contactos .contenido {
 	background-color: #363436;
 }
 
-
+#contacto form {max-width: 800px; margin:auto}
 #contacto input, #contacto label {display: block;}
-#contacto label {margin-bottom: 3px;}
+#contacto label {margin-bottom: 3px; padding-left: 7px;}
 #contacto input {height: 33px;}
 #contacto input, #contacto textarea{
 	background-color: #f8f4f4;
