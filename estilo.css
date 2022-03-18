@@ -139,6 +139,14 @@ footer {
 	padding: 40px 0
 }
 
+footer ul {
+	color: black;
+	font-weight: bold;
+	list-style-type: none;
+	line-height: 1.2;
+	margin: 0;
+}
+
 footer img {
 	width: 120px;
 }
