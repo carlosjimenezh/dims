@@ -111,9 +111,17 @@ header .contactos .contenido {
 
 #contacto input, #contacto label {display: block;}
 #contacto label {margin-bottom: 3px;}
+#contacto input {height: 33px;}
 #contacto input, #contacto textarea{
+	background-color: #f8f4f4;
+	border: none;
+	border-radius: 5px;
 	margin-bottom: 7px;
 	width: 100%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
 }
 
 
