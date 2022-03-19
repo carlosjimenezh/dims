@@ -136,13 +136,15 @@ header .contactos .contenido {
 }
 
 footer {
+	font-size: 18px;
 	padding: 40px 0
 }
+
+footer .w3-row {align-items: center;}
 
 footer ul {
 	color: black;
 	font-weight: bold;
-	font-size: 20px;
 	list-style-type: none;
 	line-height: 1.2;
 	margin: 0;
@@ -212,21 +214,12 @@ footer .contacto {text-align: right; font-weight: bold;}
 	h1{ font-size:30px}
 	h2{ font-size:25px}
 	h3{ font-size:20px}
-
-	form .w3-row .mitadder {
-		margin-top: 0;
-	}
 	
 	footer {
 		font-size: 16px;
 	}
-	footer .redes {
-		height: 20px;
-		width: 20px
-	}
-	footer .redes img {
-		width: 13px;
-	}
+	footer .contacto {text-align: center}
+	
 }
 .imgmax{
 	max-width:100%; margin:auto
