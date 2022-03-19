@@ -11,7 +11,7 @@
     <?php include('header.php'); ?>
 
     <section id="banner-principal">
-        <img src="" alt="">
+        <div class="banner-principal"></div>
         <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
                 <h2>Nosotros</h2>
@@ -25,7 +25,6 @@
                 Brindar soluciones creativas y facilitar los procesos constructivos para asegurar el éxito de los proyectos de nuestros clientes.
             </div>
         </div>
-
     </section>
 
     <section id="valores">
