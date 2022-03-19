@@ -96,6 +96,12 @@ header .contactos .contenido {
 	margin-bottom: 50px;
 }
 
+#banner-principal {
+	background-color: #f8f4f4;
+	max-width:1400px;
+	margin: 0 auto 50px
+}
+
 #valores .w3-row img {
 	width: 170px; 
 }
