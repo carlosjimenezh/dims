@@ -102,6 +102,15 @@ header .contactos .contenido {
 	margin: 0 auto 50px
 }
 
+#banner-principal .banner-principal {
+    background-image: url(assets/principal.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+	height: 500px;
+	margin-bottom: 100px
+}
+
 #valores .w3-row img {
 	width: 170px; 
 }
