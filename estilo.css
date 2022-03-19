@@ -92,6 +92,10 @@ header .contactos .contenido {
 	padding: 14px 10px
 }
 
+#banner-principal, #valores, #servicios, #lo-que-hacemos, #contacto {
+	margin-bottom: 50px;
+}
+
 #valores .w3-row img {
 	width: 170px; 
 }
