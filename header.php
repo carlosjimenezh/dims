@@ -2,13 +2,13 @@
     <div class="contactos txtamarillo fgris">
         <div class="contenido">
             <a href="">
-                (33)&nbsp;3124&nbsp;3922
+                T.&nbsp;11&nbsp;1111&nbsp;1111
             </a>
             <a href="">
-                (55)&nbsp;4612&nbsp;0706
+                T.&nbsp;11&nbsp;1111&nbsp;1111
             </a>
             <a href="">
-                contacto@insoftnc.com
+                hablemos@dimsconstrucciones.com
             </a>
         </div>
     </div>
