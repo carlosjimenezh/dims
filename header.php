@@ -49,7 +49,9 @@
                 }
             }
         </script>
-        <img src="assets/logo.svg" alt="" class="logo">
+        <a href="">
+            <img src="assets/logo.svg" alt="" class="logo">
+        </a>
     </nav>
 </header>
 
