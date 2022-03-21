@@ -73,6 +73,7 @@ header nav {
 	font-size: 16px;
 	font-weight: bold;
 	padding: 20px 0;
+	position: relative
 }
 
 header .w3-bar-item {
