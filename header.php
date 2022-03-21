@@ -49,6 +49,7 @@
                 }
             }
         </script>
+        <img src="assets/logo.svg" alt="" class="logo">
     </nav>
 </header>
 
