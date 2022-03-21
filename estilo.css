@@ -92,6 +92,18 @@ header .contactos .contenido {
 	padding: 14px 10px
 }
 
+header nav .logo {
+	bottom: -40px;
+	right: 50%;
+	position: absolute;
+	transform: translateX(50%);
+	width: 150px;
+	-webkit-transform: translateX(50%);
+	-moz-transform: translateX(50%);
+	-ms-transform: translateX(50%);
+	-o-transform: translateX(50%);
+}
+
 #banner-principal, #valores, #servicios, #lo-que-hacemos, #contacto {
 	margin-bottom: 50px;
 }
