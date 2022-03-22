@@ -41,7 +41,7 @@
         </div>
 
         <!-- collapsing menu -->
-        <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medium w3-hide-large contenido txtblanco">
+        <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medium w3-hide-large contenido txtgris">
             <a href="contacto.php" class="w3-bar-item">Inicio</a>
             <a href="contacto.php" class="w3-bar-item">Nosotros</a>
             <a href="contacto.php" class="w3-bar-item">Galería de servicios</a>
