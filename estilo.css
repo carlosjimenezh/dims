@@ -78,12 +78,15 @@ header .w3-bar {
 	overflow: visible
 }
 
-header .w3-bar-item {
-	padding: 0 10px!important;
+header nav .navbar {
+	max-width: 450px; 
+	display:flex; 
+	flex-wrap: wrap;
+	justify-content:space-between
 }
 
-header .w3-bar-item:first-of-type {
-	padding-left: 0!important;
+header .w3-bar-item {
+	padding: 0!important;
 }
 
 
