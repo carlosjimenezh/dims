@@ -9,9 +9,9 @@
     <script type="text/javascript">
         function verifica()
         {
-            if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.producto.value.trim()=="")
+            if(document.contacto.nombre.value.trim()==""  || document.contacto.telefono.value.trim()=="" || document.contacto.mensaje.value.trim()=="")
             {
-                alert("Es necesario escribir tu nombre, e-mail y el diseño de producto");     
+                alert("Es necesario escribir tu nombre, teléfono y mensaje");     
             }
             else
             {
@@ -154,28 +154,28 @@
     <section id="contacto" class="contenido contenido-small">
         <a name="scontacto"></a>
     	<?php
-	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['email']) && isset($_POST['nombre']) 
-        && isset($_POST['producto']) && trim($_POST['email'])!="" && trim($_POST['nombre'])!="" 
+	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['telefono']) && isset($_POST['nombre']) 
+        && isset($_POST['producto']) && trim($_POST['telefono'])!="" && trim($_POST['nombre'])!="" 
         && trim($_POST['producto'])!=""){
 
 			if(filter_var($_POST['email'],FILTER_VALIDATE_EMAIL)){	
 				$nombre=strip_tags($_POST['nombre']);
 				$from = $_POST['email'];
 				$email_from = $from;
-				$email_txt = "Este es un correo enviado desde el formulario web de SOLIDWORKS<br><br>
+				$email_txt = "Este es un correo enviado desde la página web DIMS<br><br>
                 &middot; Nombre: ".$nombre."<br>
                 &middot; E-mail: ".$_POST['email']."<br>
-                &middot; Empresa: ".strip_tags($_POST['empresa'])."<br>
                 &middot; Teléfono: ".strip_tags($_POST['telefono'])."<br>
-				&middot; Diseño de producto: ".strip_tags($_POST['producto'])."<br><br>";
+                &middot; Horario: ".strip_tags($_POST['horario'])."<br>
+				&middot; Mensaje: ".strip_tags($_POST['producto'])."<br><br>";
 				
-				if($_POST['capacitacion'] || $_POST['licencias']){
-					$email_txt.="INTERÉS:<br>";
-					if($_POST['capacitacion'])
-						$email_txt.="- Capacitación<br>";
-					if($_POST['licencias'])
-						$email_txt.="- Implementar licencias<br>";
-				}
+				// if($_POST['capacitacion'] || $_POST['licencias']){
+				// 	$email_txt.="INTERÉS:<br>";
+				// 	if($_POST['capacitacion'])
+				// 		$email_txt.="- Capacitación<br>";
+				// 	if($_POST['licencias'])
+				// 		$email_txt.="- Implementar licencias<br>";
+				// }
 				
                 
 					$email_to= "carlosejimenezh95@gmail.com";
@@ -212,7 +212,7 @@
 	    }
 	    else{?>
         <h2 class="w3-center">Contacto</h2>
-        <form action="" class="w3-row">
+        <form action="solidworks.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
             <div class="w3-half mitadizq">
                 <label for="nombre">Nombre*:</label>
                 <input id="nombre" type="text" name="nombre">
@@ -230,6 +230,10 @@
                 <textarea name="mensaje" id="" cols="30" rows="7"></textarea>
             </div>
         </form>
+        <!-- <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
+        height:10px; width:240px">
+            <a onclick="verifica()" class="btn flotante">Enviar</a>
+        </div> -->
         <?php
 	    }?>
     </section>
