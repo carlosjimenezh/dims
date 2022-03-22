@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
     <title>Dims</title>
@@ -152,5 +153,24 @@
     
 
     <?php include('footer.html'); ?>
+    <script src="swiper/swiper-bundle.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper', {
+        spaceBetween: 30, 
+        speed: 800,
+        disableOnInteraction: false,
+        effect: 'fade',
+        adeEffect: {
+            crossFade: true
+        },
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+            autoplay: {
+            delay: 3000,
+        }
+        });
+    </script>
 </body>
 </html>
