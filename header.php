@@ -14,8 +14,14 @@
     </div>
     <nav class="w3-bar famarillo">
         <div class="contenido txtgris">
+            <a href="" class="w3-hide-small">
+                <img src="assets/logo.svg" alt="" class="logo">
+            </a>
             <div class="w3-half">
                 <div class="navbar">
+                    <a href="" class="w3-hide-large w3-hide-medium">
+                        <img src="assets/logo.svg" alt="" width="150px">
+                    </a>
                     <a href="contacto.php" class="w3-bar-item w3-hide-small">Inicio</a>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
                     <a href="contacto.php" class="w3-bar-item w3-hide-small">Nosotros</a>
@@ -23,15 +29,15 @@
                     <a href="contacto.php" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</a>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
                     <a href="contacto.php" class="w3-bar-item w3-hide-small">Contacto</a>
+                    <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
+                        style="font-size: 2.5em" onclick="mostrarMenu()">
+                        &#9776;
+                    </a>
                 </div>
             </div>
             <div class="w3-half w3-center">
                 Ensenada, Baja California.
             </div>
-            <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
-            style="font-size: 2.5em" onclick="mostrarMenu()">
-                &#9776;
-            </a>
         </div>
 
         <!-- collapsing menu -->
@@ -51,9 +57,6 @@
                 }
             }
         </script>
-        <a href="">
-            <img src="assets/logo.svg" alt="" class="logo">
-        </a>
     </nav>
 </header>
 
