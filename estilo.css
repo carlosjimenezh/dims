@@ -134,6 +134,11 @@ header nav .logo {
 	background-color: #f8f4f4;
 }
 
+#servicios h2 {
+	position: relative;
+	bottom: 15px;
+}
+
 #servicios .w3-row {
 	max-width: 1100px;
 	margin: auto
