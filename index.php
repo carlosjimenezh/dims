@@ -61,7 +61,7 @@
 
     <section id="servicios" class="contenido">
         <h2 class="contenido contenido-small w3-center">Servicios</h2>
-        <div class="contenido-small">
+        <div class="contenido-small" style="margin: 80px auto 15px;">
             <h1>Proyectos Habitacionales o comerciales</h1>
             <ul>
                 <li>Desarrollo arquitectónico</li>
@@ -91,7 +91,7 @@
                 <img src="assets/rectangle.png" alt="">
             </div>
         </div>
-        <div class="contenido-small">
+        <div class="contenido-small" style="margin: 80px auto 15px;">
             <h1>Acabados, remodelaciones y más</h1>
             <ul>
                 <li>Aplanado de muros</li>
