@@ -130,7 +130,11 @@ header nav .logo {
 }
 
 #valores .w3-row {
-	margin: 90px auto
+	margin: 90px auto 50px
+}
+
+#valores .w3-row .w3-col {
+	margin-bottom: 70px;
 }
 
 #valores .w3-row img {
@@ -269,7 +273,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 	}
 	footer .contacto {text-align: center}
 	header nav .navbar {max-width: 100%;}
-	
+	#valores .w3-row img {width: 140px;}
 }
 .imgmax{
 	max-width:100%; margin:auto
