@@ -211,6 +211,13 @@ footer .contacto {text-align: right; font-weight: bold;}
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
 		display: flex;}
+	#banner-principal .mitadizq {
+		max-width: 400px
+	}
+	#banner-principal .mitadder {
+		max-width: 400px;
+		float: right;
+	}
 }
 .mitadder{
 	padding-left:10px;
