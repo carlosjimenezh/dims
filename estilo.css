@@ -261,6 +261,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 		font-size: 16px;
 	}
 	footer .contacto {text-align: center}
+	header nav .navbar {max-width: 100%;}
 	
 }
 .imgmax{
