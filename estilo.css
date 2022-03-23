@@ -197,7 +197,7 @@ header nav .logo {
 	-ms-border-radius: 5px;
 	-o-border-radius: 5px;
 }
-#contacto textarea {padding: 7px;}
+#contacto textarea {padding: 7px; resize:none}
 
 
 #collapsing-menu a {

@@ -246,9 +246,7 @@
                 <label for="mensaje">Mensaje*:</label>
                 <textarea name="mensaje" id="" cols="30" rows="7"></textarea>
             </div>
-            <div>
-                <a onclick="verifica()" class="btn txtgris">Enviar</a>
-            </div>
+            <a onclick="verifica()" class="btn txtgris">Enviar</a>
         </form>
         <?php
 	    }?>
