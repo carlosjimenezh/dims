@@ -155,6 +155,16 @@
     <section id="lo-que-hacemos">
         <div class="contenido">
             <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
+            <div class="swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                </div>
+            </div>
         </div>
     </section>
 
