@@ -275,7 +275,8 @@
             el: '.swiper-pagination',
             clickable: true,
         },
-            autoplay: {
+        loop: true,
+        autoplay: {
             delay: 3000,
         }
         });
