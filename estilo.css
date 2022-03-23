@@ -59,13 +59,18 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .btn {
-	background: #f1a042;
-	display: block;
-	font-weight: bold;
+    background: #f1a042;
+    display: block;
+    font-weight: bold;
     width: 150px;
+	cursor: pointer;
     border-radius: 5px;
     text-align: center;
-    padding: 7px
+    padding: 7px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 
