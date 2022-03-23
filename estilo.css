@@ -58,6 +58,15 @@ ul {padding-inline-start:15px}
 .icon-fixed {position: fixed; z-index: 99}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
+.btn {
+	background: #f1a042;
+	display: block;
+	font-weight: bold;
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 7px
+}
 
 
 .flotante {
