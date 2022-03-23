@@ -6,6 +6,13 @@
     <link rel="stylesheet" href="swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
+    <style>
+        .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        height: 300px;
+        }
+    </style>
     <script type="text/javascript">
         function verifica()
         {
