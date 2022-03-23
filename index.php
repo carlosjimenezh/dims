@@ -246,11 +246,10 @@
                 <label for="mensaje">Mensaje*:</label>
                 <textarea name="mensaje" id="" cols="30" rows="7"></textarea>
             </div>
+            <div>
+                <a onclick="verifica()" class="btn txtgris">Enviar</a>
+            </div>
         </form>
-        <!-- <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
-        height:10px; width:240px">
-            <a onclick="verifica()" class="btn flotante">Enviar</a>
-        </div> -->
         <?php
 	    }?>
     </section>
