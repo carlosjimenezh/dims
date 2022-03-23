@@ -243,12 +243,16 @@
     <script src="swiper/swiper-bundle.min.js"></script>
     <script>
         var swiper = new Swiper('.swiper', {
-        spaceBetween: 30, 
-        speed: 800,
-        disableOnInteraction: false,
-        effect: 'fade',
-        adeEffect: {
-            crossFade: true
+        effect: 'coverflow',
+        slidesPerView: 2,
+        grabCursor: true, 
+        centeredSlides: true,
+        coverflowEffect: {
+            rotate: 10,
+            stretch: 25,
+            depth: 200,
+            modifier: 1,
+            slideShadows: true,
         },
         pagination: {
             el: '.swiper-pagination',
