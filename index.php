@@ -16,14 +16,16 @@
     <script type="text/javascript">
         function verifica()
         {
-            if(document.contacto.nombre.value.trim()==""  || document.contacto.telefono.value.trim()=="" || document.contacto.mensaje.value.trim()=="")
+            if(document.contacto.nombre.value.trim()==""  || document.contacto.telefono.value.trim()=="" 
+            || document.contacto.mensaje.value.trim()=="")
             {
                 alert("Es necesario escribir tu nombre, teléfono y mensaje");     
             }
             else
             {
-                var s = document.contacto.email.value;
-                var filter=/^[A-Za-z][A-Za-z0-9_.ñÑ-]*@[A-Za-z0-9_ñÑ-]+\.[A-Za-z0-9_.ñÑ-]+[A-za-z]$/;
+                var s = document.contacto.telefono.value;
+                // var filter=/^[A-Za-z][A-Za-z0-9_.ñÑ-]*@[A-Za-z0-9_ñÑ-]+\.[A-Za-z0-9_.ñÑ-]+[A-za-z]$/;
+                var filter=/^[0-9]{10}$/;
                 if(filter.test(s))
                 {            
                     document.contacto.submit();
@@ -229,7 +231,7 @@
 	    }
 	    else{?>
         <h2 class="w3-center">Contacto</h2>
-        <form action="solidworks.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
+        <form action="index.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
             <div class="w3-half mitadizq">
                 <label for="nombre">Nombre*:</label>
                 <input id="nombre" type="text" name="nombre">
@@ -239,8 +241,8 @@
             <div class="w3-half mitadder">
                 <label for="telefono">Teléfono*:</label>
                 <input id="telefono" type="text" name="telefono">
-                <label for="correo">Correo:</label>
-                <input id="correo" type="text" name="correo">
+                <label for="emaili">Correo:</label>
+                <input id="email" type="text" name="email">
             </div>
             <div>
                 <label for="mensaje">Mensaje*:</label>
