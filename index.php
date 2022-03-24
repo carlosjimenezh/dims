@@ -108,22 +108,22 @@
             </ul>
         </div>
         <div class="w3-row">
-            <div class="w3-third mitadizq">
+            <div class="w3-col m4 s6 mitadizq">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadcentro">
+            <div class="w3-col m4 s6 mitadcentro">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadder">
+            <div class="w3-col m4 s6 mitadder">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadizq">
+            <div class="w3-col m4 s6 mitadizq">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadcentro">
+            <div class="w3-col m4 s6 mitadcentro">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadder">
+            <div class="w3-col m4 s6 mitadder">
                 <img src="assets/rectangle.png" alt="">
             </div>
         </div>
@@ -137,22 +137,22 @@
             </ul>
         </div>
         <div class="w3-row">
-            <div class="w3-third mitadizq">
+            <div class="w3-col m4 s6 mitadizq">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadcentro">
+            <div class="w3-col m4 s6 mitadcentro">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadder">
+            <div class="w3-col m4 s6 mitadder">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadizq">
+            <div class="w3-col m4 s6 mitadizq">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadcentro">
+            <div class="w3-col m4 s6 mitadcentro">
                 <img src="assets/rectangle.png" alt="">
             </div>
-            <div class="w3-third mitadder">
+            <div class="w3-col m4 s6 mitadder">
                 <img src="assets/rectangle.png" alt="">
             </div>
         </div>
