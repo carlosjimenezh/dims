@@ -281,6 +281,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 	header .w3-bar .w3-half:first-of-type {margin-bottom: 10px;}
 	#valores .w3-row img {width: 140px;}
 	#contacto form .mitadder{margin-top: 0}
+	footer ul {padding-left: 0}
 }
 .imgmax{
 	max-width:100%; margin:auto
