@@ -286,6 +286,17 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#valores .w3-row img {width: 140px;}
 	#contacto form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
+	#servicios .mitadcentro, #servicios .mitadder, #servicios .mitadizq {
+		padding: 0;
+		margin: 0
+	}
+	#servicios .w3-col:nth-child(odd) {
+		padding-right: 2px;
+	}
+	#servicios .w3-col:nth-child(even) {
+		padding-left: 2px;
+	}
+	#servicios img {margin-bottom: 4px;}
 }
 .imgmax{
 	max-width:100%; margin:auto
