@@ -264,7 +264,7 @@
     <script>
         var swiper = new Swiper('.swiper', {
         effect: 'coverflow',
-        slidesPerView: 2,
+        slidesPerView: 1,
         grabCursor: true, 
         centeredSlides: true,
         coverflowEffect: {
@@ -274,9 +274,10 @@
             modifier: 1,
             slideShadows: true,
         },
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
+        breakpoints: {
+            600: {
+                slidesPerView: 2,
+            }
         },
         loop: true,
         autoplay: {
