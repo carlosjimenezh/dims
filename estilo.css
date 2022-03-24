@@ -161,6 +161,10 @@ header nav .logo {
 	margin-bottom: 20px;
 }
 
+#servicios h1 {
+	text-align: left;
+}
+
 #servicios h2 {
 	position: relative;
 	bottom: 15px;
