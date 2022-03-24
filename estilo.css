@@ -278,7 +278,9 @@ footer .contacto {text-align: right; font-weight: bold;}
 	}
 	footer .contacto {text-align: center}
 	header nav .navbar {max-width: 100%;}
+	header .w3-bar .w3-half:first-of-type {margin-bottom: 10px;}
 	#valores .w3-row img {width: 140px;}
+	#contacto form .mitadder{margin-top: 0}
 }
 .imgmax{
 	max-width:100%; margin:auto
