@@ -44,7 +44,7 @@
 
     <section id="banner-principal">
         <div class="banner-principal"></div>
-        <div class="w3-row w3-center contenido contenido-small">
+        <div id="nosotros" class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
                 <h2>Nosotros</h2>
                 <span class="txtamarillo">prueba</span> 
