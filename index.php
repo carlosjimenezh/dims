@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
+    <link href="http://fonts.cdnfonts.com/css/sangharia" rel="stylesheet">
     <style>
         .swiper-slide {
         background-position: center;
@@ -42,9 +43,9 @@
 <body> 
     <?php include('header.php'); ?>
 
-    <section id="banner-principal">
+    <section id="banner-principal" class="fgris">
         <div class="banner-principal"></div>
-        <div id="nosotros" class="w3-row w3-center contenido contenido-small">
+        <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
                 <h2>Nosotros</h2>
                 <span class="txtamarillo">prueba</span> 
@@ -61,7 +62,11 @@
                 </div>
             </div>
         </div>
+        <div class="w3-row" style="background-image:url(assets/fgris.svg); background-position:bottom; background-size:cover; height:115px; background-repeat:no-repeat; background-color:#fff!important"></div>
     </section>
+    
+    
+    
 
     <section id="valores">
         <div class="w3-center contenido contenido-small">
@@ -95,7 +100,7 @@
         </div>
     </section>
 
-    <section id="servicios" class="contenido">
+    <section id="servicios" class="contenido fgris">
         <h2 class="contenido contenido-small w3-center">Servicios</h2>
         <div class="contenido-small" style="margin: 80px auto 15px;">
             <h1>Proyectos Habitacionales o comerciales</h1>

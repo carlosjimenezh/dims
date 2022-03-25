@@ -4,24 +4,24 @@ html,body{
 margin:0px;
 padding: 0;
 height:100%;
-font-family: 'montserrat',Arial, sans-serif;
+font-family: 'ptsans',Arial, sans-serif;
 text-align:justify;
-color:#6C6C6C;
+color:#58595b;
 font-weight: normal;
-font-size:14px
+font-size:14px;
+background-color:#fff
 }
 
 a {text-decoration: none;}
-h1,h2,h3 {font-family: 'montserrat',Arial, sans-serif;}
+h1,h3 {font-family: 'ptsans',Arial, sans-serif;}
 h1 {font-size: 18px; color: black; margin-bottom: 0; font-weight: bold;}
 h2 {
-	font-size: 50px; 
-	color: #363436; 
-	height: 30px;
-	line-height: .5;
-	margin: 0;
-	background-color: #f1a042;
+	font-size: 8em; 
+	color: #231f20;
+	background-color: #f9a01b;
 	margin-bottom: 30px;
+	font-family: 'Sangharia', sans-serif;
+	line-height: 30px;
 }
 h3 {font-size: 18px; color: black;} 
 h4 {font-size: 50px;}
@@ -50,7 +50,8 @@ ul {padding-inline-start:15px}
 }
 
 
-.fgris {background-color: #363436}
+.fgris {background-color: #f1f1f2}
+.fgrisosc{background-color: #363436}
 .famarillo {background-color:#f1a042}
 .txtblanco {color: white;}
 .txtamarillo {color: #f1a042}
@@ -124,12 +125,13 @@ header nav .logo {
 	-o-transform: translateX(50%);
 }
 
+
+
 #banner-principal, #valores, #servicios, #lo-que-hacemos, #contacto {
 	margin-bottom: 50px;
 }
 
 #banner-principal {
-	background-color: #f8f4f4;
 	max-width:1400px;
 	margin: 0 auto 100px
 }
@@ -156,13 +158,8 @@ header nav .logo {
 }
 
 #servicios {
-	background-color: #f8f4f4;
 	padding-bottom: 25px;
 	margin-bottom: 20px;
-}
-
-#servicios h1 {
-	text-align: left;
 }
 
 #servicios h2 {
@@ -272,9 +269,9 @@ footer .contacto {text-align: right; font-weight: bold;}
 	.centrar-small{ text-align:center!important}
 	.wa-icon {bottom: 30px; right: 30px;}
 	.icon-fixed img {width: 60px;}
-	h1{ font-size:20px}
-	h2{ font-size:35px}
-	h3{ font-size:16px}
+	h1{ font-size:30px}
+	h2{ font-size:6em}
+	h3{ font-size:20px}
 	header .w3-bar {padding: 15px 0}
 
 	footer {
@@ -283,21 +280,9 @@ footer .contacto {text-align: right; font-weight: bold;}
 	footer .contacto {text-align: center}
 	header nav .navbar {max-width: 100%;}
 	header .w3-bar .w3-half:first-of-type {margin-bottom: 10px;}
-	#banner-principal .banner-principal {height: 350px}
 	#valores .w3-row img {width: 140px;}
 	#contacto form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
-	#servicios .mitadcentro, #servicios .mitadder, #servicios .mitadizq {
-		padding: 0;
-		margin: 0
-	}
-	#servicios .w3-col:nth-child(odd) {
-		padding-right: 2px;
-	}
-	#servicios .w3-col:nth-child(even) {
-		padding-left: 2px;
-	}
-	#servicios img {margin-bottom: 4px;}
 }
 .imgmax{
 	max-width:100%; margin:auto
@@ -325,58 +310,14 @@ footer .contacto {text-align: right; font-weight: bold;}
 
 
 @font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-regular.woff2') format('woff2'),
-		 url('fuentes/montserrat-regular.woff') format('woff');
-    font-weight: normal;
+    font-family: 'ptsans';
+    src: url('fuentes/ptsans-regular.woff2') format('woff2');
+	font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-semibold.woff2') format('woff2'),
-		 url('fuentes/montserrat-semibold.woff') format('woff');
-    font-weight: 600;
+    font-family: 'ptsans';
+    src: url('fuentes/ptsans-bold.woff2') format('woff2');
+	font-weight: bold;
     font-style: normal;
-}
-@font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-bold.woff2') format('woff2'),
-		 url('fuentes/montserrat-bold.woff') format('woff');
-    font-weight:bold;
-    font-style:normal;
-}
-@font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-bolditalic.woff2') format('woff2'),
-		 url('fuentes/montserrat-bolditalic.woff') format('woff');
-    font-weight:bold;
-    font-style:italic;
-}
-@font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-light.woff2') format('woff2'),
-		 url('fuentes/montserrat-light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-lightitalic.woff2') format('woff2'),
-		 url('fuentes/montserrat-lightitalic.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-extralight.woff2') format('woff2'),
-		 url('fuentes/montserrat-extralight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'montserrat';
-    src: url('fuentes/montserrat-extralightitalic.woff2') format('woff2'),
-		 url('fuentes/montserrat-extralightitalic.woff') format('woff');
-    font-weight: 200;
-    font-style: italic;
 }

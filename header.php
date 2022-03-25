@@ -1,5 +1,5 @@
-<header id="header">
-    <div class="contactos txtamarillo fgris">
+<header>
+    <div class="contactos txtamarillo fgrisosc">
         <div class="contenido">
             <a href="">
                 T.&nbsp;11&nbsp;1111&nbsp;1111
