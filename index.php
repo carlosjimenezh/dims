@@ -168,12 +168,13 @@
             <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
             <div class="swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
-                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
-                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
-                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
-                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
-                    <div class="swiper-slide" style="background-image:url(assets/rectangle.png)"></div>
+                    <?php 
+                        $dir_name = 'assets/fotos/';
+                        $images = glob($dir_name."*.JPG");
+                        foreach($images as $image) {
+                            echo '<div class="swiper-slide" style="background-image:url('.$image.')"></div>';
+                        } 
+                    ?>
                 </div>
             </div>
         </div>
