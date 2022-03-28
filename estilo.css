@@ -24,7 +24,7 @@ h2 {
 	line-height: 30px;
 }
 h3 {font-size: 18px; color: black;} 
-h4 {font-size: 50px;}
+h4 {font-size: 120px;font-family: 'Sangharia', sans-serif}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
 .aviso{ font-weight:bold; text-align:center; margin:auto}
@@ -273,9 +273,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 	.centrar-small{ text-align:center!important}
 	.wa-icon {bottom: 30px; right: 30px;}
 	.icon-fixed img {width: 60px;}
-	h1{ font-size:20px}
-	h2{ font-size:6em}
-	h3{ font-size:20px}
+	h1{font-size:20px}
+	h2{font-size:6em}
+	h3{font-size:20px}
+	h4{font-size: 70px;}
 	header .w3-bar {padding: 15px 0}
 
 	footer {
@@ -304,11 +305,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 		width:16px; padding-top: 10px;
 	}
 }
-@media only screen and (max-width: 800px) {
-	.ocultar-menu {
-		display: none;
-	}
-}
+
 
 
 	
