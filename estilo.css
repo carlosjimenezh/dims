@@ -172,6 +172,10 @@ header nav .logo {
 	margin: auto
 }
 
+#servicios .contenido-small {
+	text-align: left;
+}
+
 #servicios img {
 	margin-bottom: 15px;
 	width: 100%;
