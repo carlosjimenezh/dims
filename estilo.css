@@ -153,6 +153,11 @@ header nav .logo {
 	margin-bottom: 70px;
 }
 
+#valores h3 {
+	font-family: 'Sangharia', sans-serif;
+	font-size: 35px
+}
+
 #valores .w3-row img {
 	width: 170px; 
 }
