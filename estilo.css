@@ -177,13 +177,14 @@ header nav .logo {
 	margin: auto
 }
 
-#servicios .contenido-small {
-	text-align: left;
+
+#servicios .w3-row img {
+	width: 300px;
 }
 
-#servicios img {
-	margin-bottom: 15px;
-	width: 100%;
+
+#servicios .contenido-small {
+	text-align: left;
 }
 
 #lo-que-hacemos {
