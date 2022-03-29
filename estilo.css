@@ -147,6 +147,11 @@ header nav .logo {
 	margin-bottom: 100px
 }
 
+#banner-principal .txtamarillo {
+	font-size: 15px;
+	font-weight: bold
+}
+
 #valores .w3-row {
 	margin: 90px auto 50px
 }
