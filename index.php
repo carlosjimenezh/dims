@@ -120,32 +120,32 @@
         <div class="w3-row">
             <div class="w3-col m4 s6 mitadizq">
                 <a href="assets/proyectos/habitacionales/habitacional1.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/habitacionales/habitacional1.jpg" alt="">
+                    <img src="assets/proyectos/habitacionales/habitacional1.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
                 <a href="assets/proyectos/habitacionales/habitacional2.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/habitacionales/habitacional2.jpg" alt="">
+                    <img src="assets/proyectos/habitacionales/habitacional2.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
                 <a href="assets/proyectos/habitacionales/habitacional3.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/habitacionales/habitacional3.jpg" alt="">
+                    <img src="assets/proyectos/habitacionales/habitacional3.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadizq">
                 <a href="assets/proyectos/habitacionales/habitacional4.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/habitacionales/habitacional4.jpg" alt="">
+                    <img src="assets/proyectos/habitacionales/habitacional4.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
                 <a href="assets/proyectos/habitacionales/habitacional5.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/habitacionales/habitacional5.jpg" alt="">
+                    <img src="assets/proyectos/habitacionales/habitacional5.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
                 <a href="assets/proyectos/habitacionales/habitacional6.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/habitacionales/habitacional6.jpg" alt="">
+                    <img src="assets/proyectos/habitacionales/habitacional6.jpg" alt="" class="imgmax">
                 </a>
             </div>
         </div>
@@ -161,32 +161,32 @@
         <div class="w3-row">
             <div class="w3-col m4 s6 mitadizq">
                 <a href="assets/proyectos/acabados/acabado1.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/acabados/acabado1.jpg" alt="">
+                    <img src="assets/proyectos/acabados/acabado1.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
                 <a href="assets/proyectos/acabados/acabado2.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/acabados/acabado2.jpg" alt="">
+                    <img src="assets/proyectos/acabados/acabado2.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
                 <a href="assets/proyectos/acabados/acabado3.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/acabados/acabado3.jpg" alt="">
+                    <img src="assets/proyectos/acabados/acabado3.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadizq">
                 <a href="assets/proyectos/acabados/acabado4.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/acabados/acabado4.jpg" alt="">
+                    <img src="assets/proyectos/acabados/acabado4.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
                 <a href="assets/proyectos/acabados/acabado5.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/acabados/acabado5.jpg" alt="">
+                    <img src="assets/proyectos/acabados/acabado5.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
                 <a href="assets/proyectos/acabados/acabado6.jpg" data-lightbox="image-1" data-title="My caption">
-                    <img src="assets/proyectos/acabados/acabado6.jpg" alt="">
+                    <img src="assets/proyectos/acabados/acabado6.jpg" alt="" class="imgmax">
                 </a>
             </div>
         </div>
