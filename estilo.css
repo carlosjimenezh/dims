@@ -59,6 +59,7 @@ ul {padding-inline-start:15px}
 .icon-fixed {position: fixed; z-index: 99}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
+.ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
 .btn {
     background: #f1a042;
     display: block;
@@ -285,6 +286,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 	.centrar-small{ text-align:center!important}
 	.wa-icon {bottom: 30px; right: 30px;}
 	.icon-fixed img {width: 60px;}
+	.ubicacion{font-size: 30px;}
 	h1{font-size:20px}
 	h2{font-size:6em}
 	h3{font-size:20px}
