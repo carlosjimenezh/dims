@@ -182,6 +182,12 @@ header nav .logo {
 	width: 300px;
 }
 
+#servicios .w3-row .w3-col {padding-bottom: 20px;}
+
+#servicios .mitadizq {text-align: left}
+#servicios .mitadcentro {text-align: center}
+#servicios .mitadder {text-align: right;}
+
 
 #servicios .contenido-small {
 	text-align: left;
