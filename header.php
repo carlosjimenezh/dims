@@ -36,7 +36,9 @@
                 </div>
             </div>
             <div class="w3-half w3-center">
-                Ensenada, Baja California.
+                <div class="ubicacion">
+                    Ensenada,&nbsp;Baja&nbsp;California.
+                </div>
             </div>
         </div>
 
