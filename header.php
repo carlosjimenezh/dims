@@ -20,7 +20,7 @@
             <div class="w3-half">
                 <div class="navbar">
                     <a href="" class="w3-hide-large w3-hide-medium">
-                        <img src="assets/logo.svg" alt="" width="150px">
+                        <img src="assets/logo.svg" alt="" width="135px">
                     </a>
                     <a href="#header" class="w3-bar-item w3-hide-small">Inicio</a>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
