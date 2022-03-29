@@ -320,6 +320,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 	}
 }
 
+@media only screen and (min-width: 601px) and (max-width:1072px) {
+	header nav .logo {bottom: -45px;}
+}
+
 
 
 	
