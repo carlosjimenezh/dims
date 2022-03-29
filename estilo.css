@@ -304,11 +304,17 @@ footer .contacto {text-align: right; font-weight: bold;}
 	}
 	footer .contacto {text-align: center}
 	header nav .navbar {max-width: 100%;}
-	header .w3-bar .w3-half:first-of-type {margin-bottom: 10px;}
 	#valores .w3-row img {width: 140px;}
 	#contacto form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
 	#banner-principal .banner-principal {height: 350px}
+	#servicios .mitadizq, #servicios .mitadcentro, #servicios .mitadder {
+		margin: 0;
+		padding: 0;
+	}
+	#servicios .w3-col:nth-child(odd) {padding-right: 5px}
+	#servicios .w3-col:nth-child(even) {padding-left: 5px;}
+	#servicios .w3-row .w3-col {padding-bottom: 10px;}
 }
 .imgmax{
 	max-width:100%; margin:auto
