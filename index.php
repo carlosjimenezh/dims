@@ -199,7 +199,7 @@
                 <div class="swiper-wrapper">
                     <?php 
                         $dir_name = 'assets/fotos/';
-                        $images = glob($dir_name."*.JPG");
+                        $images = glob($dir_name."*.{JPG,jpg,png,PNG}", GLOB_BRACE);
                         foreach($images as $image) {
                             echo '<div class="swiper-slide" style="background-image:url('.$image.')"></div>';
                         } 
