@@ -226,8 +226,9 @@ header nav .logo {
 #contacto textarea {padding: 7px; resize:none}
 
 
-#collapsing-menu a {
-	margin-bottom: 10px;
+#collapsing-menu span {
+	color: #231f20;
+	margin-bottom: 10px 
 }
 #collapsing-menu a:last-child {
 	margin-bottom: 0

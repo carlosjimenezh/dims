@@ -44,7 +44,7 @@
         </div>
 
         <!-- collapsing menu -->
-        <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medium w3-hide-large contenido txtgris">
+        <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medium w3-hide-large contenido">
             <span href="#inicio" class="w3-bar-item">Inicio</span>
             <span href="#nosotros" class="w3-bar-item">Nosotros</span>
             <span href="#galeria" class="w3-bar-item">Galería de servicios</span>
