@@ -70,7 +70,7 @@
 
     <section id="banner-principal" class="fgris">
         <div class="banner-principal"></div>
-        <div class="w3-row w3-center contenido contenido-small">
+        <div class="w3-row w3-center contenido contenido-small" id="nosotros">
             <div class="w3-half mitadizq">
                 <h2>Nosotros</h2>
                 <span class="txtamarillo">DIMS S.A. DE C.V.</span> 
@@ -214,7 +214,7 @@
 
     <section id="lo-que-hacemos">
         <div class="contenido">
-            <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
+            <h4 class="txtamarillo w3-center" id="galeria">Lo que hacemos</h4>
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <?php 

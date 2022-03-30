@@ -1,3 +1,4 @@
+<span id="inicio"></span>
 <header>
     <div class="contactos txtamarillo fgrisosc">
         <div class="contenido">
@@ -22,11 +23,11 @@
                     <a href="" class="w3-hide-large w3-hide-medium">
                         <img src="assets/logo.svg" alt="" width="135px">
                     </a>
-                    <a href="#header" class="w3-bar-item w3-hide-small">Inicio</a>
+                    <a href="#inicio" class="w3-bar-item w3-hide-small">Inicio</a>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
                     <a href="#nosotros" class="w3-bar-item w3-hide-small">Nosotros</a>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
-                    <a href="#lo-que-hacemos" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</a>
+                    <a href="#galeria" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</a>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
                     <a href="#contacto" class="w3-bar-item w3-hide-small">Contacto</a>
                     <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
@@ -44,9 +45,9 @@
 
         <!-- collapsing menu -->
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medium w3-hide-large contenido txtgris">
-            <a href="#header" class="w3-bar-item">Inicio</a>
+            <a href="#inicio" class="w3-bar-item">Inicio</a>
             <a href="#nosotros" class="w3-bar-item">Nosotros</a>
-            <a href="#lo-que-hacemos" class="w3-bar-item">Galería de servicios</a>
+            <a href="#galeria" class="w3-bar-item">Galería de servicios</a>
             <a href="#contacto" class="w3-bar-item">Contacto</a>    
         </div>
         <script>
