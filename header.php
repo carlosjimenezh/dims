@@ -23,15 +23,15 @@
                     <a href="" class="w3-hide-large w3-hide-medium">
                         <img src="assets/logo.svg" alt="" width="135px">
                     </a>
-                    <a href="#inicio" class="w3-bar-item w3-hide-small">Inicio</a>
+                    <span href="#inicio" class="w3-bar-item w3-hide-small">Inicio</span>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
-                    <a href="#nosotros" class="w3-bar-item w3-hide-small">Nosotros</a>
+                    <span href="#nosotros" class="w3-bar-item w3-hide-small">Nosotros</span>
+                    <span   class="w3-bar-item w3-hide-small">&bull;</span>
+                    <span href="#galeria" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</span>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
-                    <a href="#galeria" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</a>
-                    <span class="w3-bar-item w3-hide-small">&bull;</span>
-                    <a href="#contacto" class="w3-bar-item w3-hide-small">Contacto</a>
+                    <span href="#contacto" class="w3-bar-item w3-hide-small">Contacto</span>
                     <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
-                        style="font-size: 2.5em" onclick="mostrarMenu()">
+                        style="font-size: 2.5em; cursor:pointer" onclick="mostrarMenu()">
                         &#9776;
                     </a>
                 </div>
@@ -45,10 +45,10 @@
 
         <!-- collapsing menu -->
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medium w3-hide-large contenido txtgris">
-            <a href="#inicio" class="w3-bar-item">Inicio</a>
-            <a href="#nosotros" class="w3-bar-item">Nosotros</a>
-            <a href="#galeria" class="w3-bar-item">Galería de servicios</a>
-            <a href="#contacto" class="w3-bar-item">Contacto</a>    
+            <span href="#inicio" class="w3-bar-item">Inicio</span>
+            <span href="#nosotros" class="w3-bar-item">Nosotros</span>
+            <span href="#galeria" class="w3-bar-item">Galería de servicios</span>
+            <span href="#contacto" class="w3-bar-item">Contacto</span>    
         </div>
         <script>
             function mostrarMenu() {

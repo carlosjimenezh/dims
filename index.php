@@ -50,7 +50,7 @@
     <script type="text/javascript">
     $(function() 
     {
-        $('a').bind('click',function(event){
+        $('span').bind('click',function(event){
             var $anchor = $(this);
             
             $('html, body').stop().animate({
