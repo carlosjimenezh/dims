@@ -73,7 +73,7 @@
         <div class="w3-row w3-center contenido contenido-small" id="nosotros">
             <div class="w3-half mitadizq">
                 <h2>Nosotros</h2>
-                <span class="txtamarillo">DIMS S.A. DE C.V.</span> 
+                <strong class="txtamarillo">DIMS S.A. DE C.V.</strong> 
                 <div style="text-align: justify; text-align-last:center">
                     Somos una empresa dedicada a la planeación y ejecución de proyectos constructivos. Fundada en la ciudad de Ensenada, Baja California en el año 2017. <br>
                     Destaca nuestra honestidad, ingenio y la calidad en nuestros servicios. Si deseas invertir en una propiedad, hablemos de construir.
@@ -81,7 +81,7 @@
             </div>
             <div class="w3-half mitadder">
                 <h2>Misión</h2>
-                <span class="txtamarillo">Misión</span> 
+                <strong class="txtamarillo">Misión</strong> 
                 <div style="text-align: justify; text-align-last:center">
                     Brindar soluciones creativas y facilitar los procesos constructivos para asegurar el éxito de los proyectos de nuestros clientes.
                 </div>
