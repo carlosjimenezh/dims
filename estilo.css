@@ -81,6 +81,9 @@ ul {padding-inline-start:15px}
 	margin: 0
 }
 
+header span, footer span {
+	cursor: pointer
+}
 
 header .contenido {
 	margin: 0 auto;
