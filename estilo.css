@@ -139,10 +139,10 @@ header nav .logo {
 }
 
 #banner-principal .banner-principal {
-    background-image: url(assets/principal.png);
+    background-image: url(assets/hablemos-de-construir.svg), url(assets/principal.jpg); 
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 500px, cover;
 	height: 500px;
 	margin-bottom: 100px
 }
