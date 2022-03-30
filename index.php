@@ -46,6 +46,25 @@
     <title>Dims</title>
 </head>
 <body> 
+    <!-- Script para el efecto slow scroll  -->
+    <script type="text/javascript">
+    $(function() {
+                    $('a').bind('click',function(event){
+                        var $anchor = $(this);
+                        
+                        $('html, body').stop().animate({
+                            scrollTop: $($anchor.attr('href')).offset().top-80
+                        }, 1500,'easeInOutCirc');
+                        /*
+                        if you don't want to use the easing effects:
+                        $('html, body').stop().animate({
+                            scrollTop: $($anchor.attr('href')).offset().top
+                        }, 1000);easeInOutBack
+                        */
+                        event.preventDefault();
+                    });
+                });
+    </script>
     <?php include('header.php'); ?>
 
     <section id="banner-principal" class="fgris">
