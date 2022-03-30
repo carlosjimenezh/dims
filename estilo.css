@@ -307,7 +307,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#valores .w3-row img {width: 140px;}
 	#contacto form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
-	#banner-principal .banner-principal {height: 350px}
+	#banner-principal .banner-principal {
+		background-size: 350px, cover;
+		height: 400px
+	}
 	#servicios .mitadizq, #servicios .mitadcentro, #servicios .mitadder {
 		margin: 0;
 		padding: 0;
