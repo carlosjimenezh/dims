@@ -70,7 +70,8 @@
 
     <section id="banner-principal" class="fgris">
         <div class="banner-principal"></div>
-        <div class="w3-row w3-center contenido contenido-small" id="nosotros">
+        <span id="nosotros" style="margin-top: -60px; position:absolute"></span>
+        <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
                 <h2>Nosotros</h2>
                 <strong class="txtamarillo">DIMS S.A. DE C.V.</strong> 
@@ -213,9 +214,9 @@
     </section>
 
     <section id="lo-que-hacemos">
+    <span id="galeria" style="margin-top: 25px; position:absolute"></span>
         <div class="contenido">
             <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
-            <span id="galeria" style="margin-top: -110px; position:absolute"></span>
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <?php 
@@ -290,7 +291,7 @@
 				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
 	    }
 	    else{?>
-        <span id="scontacto" style="margin-top: 30px; position:absolute"></span>
+        <span id="contacto" style="margin-top: -80px; position:absolute"></span>
         <h2 class="w3-center">Contacto</h2>
         <form action="index.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
             <div class="w3-half mitadizq">
