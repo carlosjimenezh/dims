@@ -93,7 +93,8 @@ header .contenido, nav .contenido {
 	font-weight: bold;
 	position: sticky;
 	top: 0;
-	overflow: visible
+	overflow: visible;
+	z-index: 10
 }
 
 nav .navbar {
