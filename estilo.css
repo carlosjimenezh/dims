@@ -81,22 +81,22 @@ ul {padding-inline-start:15px}
 	margin: 0
 }
 
-header span, footer span {
+nav span, footer span {
 	cursor: pointer
 }
 
-header .contenido {
+header .contenido, nav .contenido { 
 	margin: 0 auto;
 }
 
-header .w3-bar {
+.w3-bar {
 	font-size: 16px;
 	font-weight: bold;
 	position: relative;
 	overflow: visible
 }
 
-header nav .navbar {
+nav .navbar {
 	color: #231f20;
 	max-width: 450px; 
 	display:flex; 
@@ -105,7 +105,7 @@ header nav .navbar {
 	justify-content:space-between
 }
 
-header .w3-bar-item {
+nav .w3-bar-item {
 	padding: 0!important;
 }
 
@@ -118,7 +118,7 @@ header .contactos .contenido {
 	padding: 14px 10px
 }
 
-header nav .logo {
+nav .logo {
 	bottom: -40px;
 	right: 50%;
 	position: absolute;
@@ -300,13 +300,13 @@ footer .contacto {text-align: right; font-weight: bold;}
 	h2{font-size:6em}
 	h3{font-size:20px}
 	h4{font-size: 70px;}
-	header .w3-bar {padding: 15px 0}
+	nav .w3-bar {padding: 15px 0}
 
 	footer {
 		font-size: 16px;
 	}
 	footer .contacto {text-align: center}
-	header nav .navbar {max-width: 100%;}
+	nav .navbar {max-width: 100%;}
 	#valores .w3-row img {width: 140px;}
 	#contacto form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
@@ -339,7 +339,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 }
 
 @media only screen and (min-width: 601px) and (max-width:1072px) {
-	header nav .logo {bottom: -45px;}
+	nav .logo {bottom: -45px;}
 }
 
 
