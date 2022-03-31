@@ -92,7 +92,8 @@ header .contenido, nav .contenido {
 .w3-bar {
 	font-size: 16px;
 	font-weight: bold;
-	position: relative;
+	position: sticky;
+	top: 0;
 	overflow: visible
 }
 
