@@ -29,7 +29,7 @@
                     <span   class="w3-bar-item w3-hide-small">&bull;</span>
                     <span href="#galeria" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</span>
                     <span class="w3-bar-item w3-hide-small">&bull;</span>
-                    <span href="#contacto" class="w3-bar-item w3-hide-small">Contacto</span>
+                    <span href="#scontacto" class="w3-bar-item w3-hide-small">Contacto</span>
                     <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
                         style="font-size: 2.5em; cursor:pointer" onclick="mostrarMenu()">
                         &#9776;
@@ -48,7 +48,7 @@
             <span href="#inicio" class="w3-bar-item">Inicio</span>
             <span href="#nosotros" class="w3-bar-item">Nosotros</span>
             <span href="#galeria" class="w3-bar-item">Galería de servicios</span>
-            <span href="#contacto" class="w3-bar-item">Contacto</span>    
+            <span href="#scontacto" class="w3-bar-item">Contacto</span>    
         </div>
         <script>
             function mostrarMenu() {
