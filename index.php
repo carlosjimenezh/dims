@@ -214,7 +214,8 @@
 
     <section id="lo-que-hacemos">
         <div class="contenido">
-            <h4 class="txtamarillo w3-center" id="galeria">Lo que hacemos</h4>
+            <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
+            <span id="galeria" style="margin-top: -110px; position:absolute"></span>
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <?php 
@@ -229,7 +230,7 @@
         </div>
     </section>
 
-    <section id="contacto" class="contenido contenido-small">
+    <section id="contenido" class="contenido contenido-small">
         <a name="scontacto"></a>
     	<?php
 	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['telefono']) && isset($_POST['nombre']) 
@@ -289,6 +290,7 @@
 				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
 	    }
 	    else{?>
+        <span id="scontacto" style="margin-top: 30px; position:absolute"></span>
         <h2 class="w3-center">Contacto</h2>
         <form action="index.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
             <div class="w3-half mitadizq">
