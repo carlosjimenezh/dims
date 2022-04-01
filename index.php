@@ -231,7 +231,7 @@
         </div>
     </section>
 
-    <section id="contenido" class="contenido contenido-small">
+    <section id="contacto-seccion" class="contenido contenido-small">
         <a name="scontacto"></a>
     	<?php
 	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['telefono']) && isset($_POST['nombre']) 
