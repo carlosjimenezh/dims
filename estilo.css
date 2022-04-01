@@ -327,6 +327,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#servicios .w3-col:nth-child(even) {padding-left: 5px;}
 	#servicios .w3-row .w3-col {padding-bottom: 10px;}
 	#galeria {margin-top: -40px;}
+	#valores h3 {
+		font-size: 30px;
+		line-height: .7
+	}
 }
 .imgmax{
 	max-width:100%; margin:auto
