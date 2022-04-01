@@ -137,7 +137,7 @@ nav .logo {
 
 
 
-#banner-principal, #valores, #servicios, #lo-que-hacemos, #contacto {
+#banner-principal, #valores, #servicios, #lo-que-hacemos, #contacto-seccion {
 	margin-bottom: 50px;
 }
 
@@ -212,11 +212,11 @@ nav .logo {
 	padding: 0 0 70px
 }
 
-#contacto form {max-width: 800px; margin:auto}
-#contacto input, #contacto label {display: block;}
-#contacto label {margin-bottom: 3px; padding-left: 7px;}
-#contacto input {height: 33px;}
-#contacto input, #contacto textarea{
+#contacto-seccion form {max-width: 800px; margin:auto}
+#contacto-seccion input, #contacto-seccion label {display: block;}
+#contacto-seccion label {margin-bottom: 3px; padding-left: 7px;}
+#contacto-seccion input {height: 33px;}
+#contacto-seccion input, #contacto-seccion textarea{
 	background-color: #f8f4f4;
 	border: none;
 	border-radius: 5px;
@@ -228,7 +228,7 @@ nav .logo {
 	-ms-border-radius: 5px;
 	-o-border-radius: 5px;
 }
-#contacto textarea {padding: 7px; resize:none}
+#contacto-seccion textarea {padding: 7px; resize:none}
 
 
 #collapsing-menu span {
@@ -313,7 +313,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 	footer .contacto {text-align: center}
 	nav .navbar {max-width: 100%;}
 	#valores .w3-row img {width: 140px;}
-	#contacto form .mitadder{margin-top: 0}
+	#contacto-seccion form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
 	#banner-principal .banner-principal {
 		background-size: 350px, cover;
