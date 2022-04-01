@@ -25,11 +25,11 @@
                     <img src="assets/logo.svg" alt="" width="135px">
                 </a>
                 <span href="#inicio" class="w3-bar-item w3-hide-small">Inicio</span>
-                <span class="w3-bar-item w3-hide-small">&bull;</span>
+                <span class="w3-bar-item w3-hide-small">&middot;</span>
                 <span href="#nosotros" class="w3-bar-item w3-hide-small">Nosotros</span>
-                <span   class="w3-bar-item w3-hide-small">&bull;</span>
+                <span   class="w3-bar-item w3-hide-small">&middot;</span>
                 <span href="#galeria" class="w3-bar-item w3-hide-small">Galería&nbsp;de&nbsp;servicios</span>
-                <span class="w3-bar-item w3-hide-small">&bull;</span>
+                <span class="w3-bar-item w3-hide-small">&middot;</span>
                 <span href="#scrollcontacto" class="w3-bar-item w3-hide-small">Contacto</span>
                 <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
                     style="font-size: 2.5em; cursor:pointer" onclick="mostrarMenu()">
