@@ -137,9 +137,12 @@ nav .logo {
 
 
 
-#banner-principal, #valores, #servicios, #lo-que-hacemos, #contacto-seccion {
+#banner-principal {
 	margin-bottom: 50px;
 }
+
+#valores {margin-bottom: 100px}
+#lo-que-hacemos, #contacto-seccion {margin-bottom: 150px}
 
 #banner-principal {
 	max-width:1400px;
@@ -178,7 +181,7 @@ nav .logo {
 
 #servicios {
 	padding-bottom: 25px;
-	margin-bottom: 20px;
+	margin-bottom: 100px
 }
 
 #servicios h2 {
