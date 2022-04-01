@@ -291,7 +291,7 @@
 				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
 	    }
 	    else{?>
-        <span id="contacto" style="margin-top: -80px; position:absolute"></span>
+        <span id="scrollcontacto" style="margin-top: -80px; position:absolute"></span>
         <h2 class="w3-center">Contacto</h2>
         <form action="index.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
             <div class="w3-half mitadizq">
@@ -301,9 +301,9 @@
                 <input id="horario" type="text" name="horario">
             </div>
             <div class="w3-half mitadder">
-                <label for="telefono">Teléfono*:</label>
+                <label for="telefono">Teléfono (10 dígitos)*:</label>
                 <input id="telefono" type="text" name="telefono">
-                <label for="emaili">Correo:</label>
+                <label for="email">Correo:</label>
                 <input id="email" type="text" name="email">
             </div>
             <div>
