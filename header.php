@@ -6,10 +6,10 @@
                 T.&nbsp;11&nbsp;1111&nbsp;1111
             </a>
             <a href="">
-                T.&nbsp;11&nbsp;1111&nbsp;1111
+                T.&nbsp;11&nbsp;1111&nbsp;1111  
             </a>
             <a href="">
-                hablemos@dimsconstrucciones.com
+                hablemos@dimsconstruye.mx
             </a>
         </div>
     </div>
