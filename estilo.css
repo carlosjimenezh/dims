@@ -59,6 +59,10 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
+#galeria {
+	margin-top: 25px;  
+	position:absolute
+}
 .btn {
     background: #f1a042;
     display: block;
@@ -322,6 +326,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#servicios .w3-col:nth-child(odd) {padding-right: 5px}
 	#servicios .w3-col:nth-child(even) {padding-left: 5px;}
 	#servicios .w3-row .w3-col {padding-bottom: 10px;}
+	#galeria {margin-top: -40px;}
 }
 .imgmax{
 	max-width:100%; margin:auto

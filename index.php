@@ -214,7 +214,7 @@
     </section>
 
     <section id="lo-que-hacemos">
-    <span id="galeria" style="margin-top: 25px; position:absolute"></span>
+    <span id="galeria"></span>
         <div class="contenido">
             <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
             <div class="swiper">
