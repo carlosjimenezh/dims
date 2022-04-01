@@ -59,6 +59,13 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
+.swiper-slide { 
+	border-radius:5px ; 
+	-webkit-border-radius:5px ; 
+	-moz-border-radius:5px ; 
+	-ms-border-radius:5px ; 
+	-o-border-radius:5px ; 
+}
 #galeria {
 	margin-top: 25px;  
 	position:absolute
