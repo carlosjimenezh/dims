@@ -340,7 +340,8 @@
         loop: true,
         autoplay: {
             delay: 3000,
-        }
+        },
+        slideToClickedSlide: true,
         });
     </script>
 </body>
