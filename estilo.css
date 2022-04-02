@@ -341,6 +341,9 @@ footer .contacto {text-align: right; font-weight: bold;}
 		font-size: 30px;
 		line-height: .7
 	}
+	.swiper-slide {
+		height: 200px!important; 
+	}
 }
 .imgmax{
 	max-width:100%; margin:auto
