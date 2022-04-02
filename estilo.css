@@ -344,6 +344,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 	.swiper-slide {
 		height: 200px!important; 
 	}
+	.swiper-slide-active {
+		margin-left: -10%!important;
+		width: 70%!important;
+	}
 }
 .imgmax{
 	max-width:100%; margin:auto
