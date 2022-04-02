@@ -322,7 +322,7 @@
     <script>
         var swiper = new Swiper('.swiper', {
         effect: 'coverflow',
-        slidesPerView: 1,
+        slidesPerView: 2,
         grabCursor: true, 
         centeredSlides: true,
         coverflowEffect: {
@@ -332,11 +332,11 @@
             modifier: 1,
             slideShadows: true,
         },
-        breakpoints: {
-            600: {
-                slidesPerView: 2,
-            }
-        },
+        // breakpoints: {
+        //     600: {
+        //         slidesPerView: 2,
+        //     }
+        // },
         loop: true,
         autoplay: {
             delay: 3000,
