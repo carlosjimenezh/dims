@@ -292,7 +292,7 @@
 	    }
 	    else{?>
         <span id="scrollcontacto" style="margin-top: -80px; position:absolute"></span>
-        <h2 class="w3-center">Contacto</h2>
+        <h2 class="w3-center" style="margin-bottom: 70px;">Contacto</h2>
         <form action="index.php?a=2#scontacto" class="w3-row" name="contacto" id="contacto" method="POST">
             <div class="w3-half mitadizq">
                 <label for="nombre">Nombre*:</label>
