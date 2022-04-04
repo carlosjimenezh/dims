@@ -244,10 +244,9 @@ nav .logo {
 
 #collapsing-menu span {
 	color: #231f20;
-	margin-bottom: 10px 
-}
-#collapsing-menu a:last-child {
-	margin-bottom: 0
+	padding-left: 15px!important;
+	padding-bottom: 10px!important;
+	margin-bottom: 5px 
 }
 
 footer {
