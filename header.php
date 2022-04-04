@@ -21,7 +21,7 @@
         </a>
         <div class="w3-half">
             <div class="navbar">
-                <a href="" class="w3-hide-large w3-hide-medium">
+                <a href="" class="w3-hide-large w3-hide-medium" style="margin: auto;">
                     <img src="assets/logo.svg" alt="" width="135px">
                 </a>
                 <span href="#inicio" class="w3-bar-item w3-hide-small">Inicio</span>
@@ -32,7 +32,7 @@
                 <span class="w3-bar-item w3-hide-small">&middot;</span>
                 <span href="#scrollcontacto" class="w3-bar-item w3-hide-small">Contacto</span>
                 <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
-                    style="font-size: 2.5em; cursor:pointer" onclick="mostrarMenu()">
+                    style="font-size: 2.5em; cursor:pointer; position:absolute;right:0" onclick="mostrarMenu()">
                     &#9776;
                 </a>
             </div>
