@@ -59,7 +59,7 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
-.swiper-slide { 
+.swiper2 .swiper-slide { 
 	border-radius:5px ; 
 	-webkit-border-radius:5px ; 
 	-moz-border-radius:5px ; 
@@ -157,13 +157,17 @@ nav .logo {
 	margin: 0 auto 100px
 }
 
-#banner-principal .banner-principal {
+#banner-principal .swiper1 .banner-principal {
+	background-repeat: no-repeat;
+	height: 600px;
+	margin-bottom: 100px
+}
+
+#banner-principal .swiper1 .banner-principal:first-of-type {
     background-image: url(assets/hablemos-de-construir.svg), url(assets/principal.jpg); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: 500px, cover;
-	height: 600px;
-	margin-bottom: 100px
 }
 
 #banner-principal .txtamarillo {
@@ -325,9 +329,11 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#valores .w3-row img {width: 140px;}
 	#contacto-seccion form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
-	#banner-principal .banner-principal {
+	#banner-principal .swiper1 .banner-principal {
+		height: 400px;
+	}
+	#banner-principal .swiper1 .banner-principal:first-of-type {
 		background-size: 350px, cover;
-		height: 400px
 	}
 	#servicios .mitadizq, #servicios .mitadcentro, #servicios .mitadder {
 		margin: 0;
@@ -341,10 +347,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 		font-size: 30px;
 		line-height: .7
 	}
-	.swiper-slide {
+	.swiper2 .swiper-slide {
 		height: 200px!important; 
 	}
-	.swiper-slide-active {
+	.swiper2 .swiper-slide-active {
 		margin-left: -10%!important;
 		width: 70%!important;
 	}
