@@ -59,6 +59,7 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
+.swiper2 {overflow: hidden;}
 .swiper2 .swiper-slide { 
 	border-radius:5px ; 
 	-webkit-border-radius:5px ; 
