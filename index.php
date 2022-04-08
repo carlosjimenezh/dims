@@ -136,38 +136,38 @@
                 <li>Desarrollo arquitectónico</li>
                 <li>Presupuesto y calendarización de obra</li>
                 <li>Administración de obra</li>
-                <li>Ejecución de obra.</li>
+                <li>Ejecución de obra</li>
                 <li>Nivelado y compactación de terrenos</li>
-            </ul>
+            </ul><br>
         </div>
         <div class="w3-row">
             <div class="w3-col m4 s6 mitadizq">
-                <a href="assets/proyectos/habitacionales/habitacional1.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/habitacionales/habitacional1.jpg" data-lightbox="proyectos" data-title="Proyectos Habitacionales y comerciales">
                     <img src="assets/proyectos/habitacionales/gal/habitacional1.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
-                <a href="assets/proyectos/habitacionales/habitacional2.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/habitacionales/habitacional2.jpg" data-lightbox="proyectos" data-title="Proyectos Habitacionales y comerciales">
                     <img src="assets/proyectos/habitacionales/gal/habitacional2.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
-                <a href="assets/proyectos/habitacionales/habitacional3.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/habitacionales/habitacional3.jpg" data-lightbox="proyectos" data-title="Proyectos Habitacionales y comerciales">
                     <img src="assets/proyectos/habitacionales/gal/habitacional3.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadizq">
-                <a href="assets/proyectos/habitacionales/habitacional4.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/habitacionales/habitacional4.jpg" data-lightbox="proyectos" data-title="Proyectos Habitacionales y comerciales">
                     <img src="assets/proyectos/habitacionales/gal/habitacional4.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
-                <a href="assets/proyectos/habitacionales/habitacional5.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/habitacionales/habitacional5.jpg" data-lightbox="proyectos" data-title="Proyectos Habitacionales y comerciales">
                     <img src="assets/proyectos/habitacionales/gal/habitacional5.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
-                <a href="assets/proyectos/habitacionales/habitacional6.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/habitacionales/habitacional6.jpg" data-lightbox="proyectos" data-title="Proyectos Habitacionales y comerciales">
                     <img src="assets/proyectos/habitacionales/gal/habitacional6.jpg" alt="" class="imgmax">
                 </a>
             </div>
@@ -179,36 +179,36 @@
                 <li>Pisos y recubrimientos</li>
                 <li>Muebles de baños</li>
                 <li>Carpintería (muebles de baño, cocinas, closets, pérgolas, etc.)</li>
-            </ul>
+            </ul><br>
         </div>
         <div class="w3-row">
             <div class="w3-col m4 s6 mitadizq">
-                <a href="assets/proyectos/acabados/acabado1.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/acabados/acabado1.jpg" data-lightbox="acabados" data-title="Acabados, remodelaciones y más">
                     <img src="assets/proyectos/acabados/gal/acabado1.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
-                <a href="assets/proyectos/acabados/acabado2.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/acabados/acabado2.jpg" data-lightbox="acabados" data-title="Acabados, remodelaciones y más">
                     <img src="assets/proyectos/acabados/gal/acabado2.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
-                <a href="assets/proyectos/acabados/acabado3.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/acabados/acabado3.jpg" data-lightbox="acabados" data-title="Acabados, remodelaciones y más">
                     <img src="assets/proyectos/acabados/gal/acabado3.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadizq">
-                <a href="assets/proyectos/acabados/acabado4.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/acabados/acabado4.jpg" data-lightbox="acabados" data-title="Acabados, remodelaciones y más">
                     <img src="assets/proyectos/acabados/gal/acabado4.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadcentro">
-                <a href="assets/proyectos/acabados/acabado5.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/acabados/acabado5.jpg" data-lightbox="acabados" data-title="Acabados, remodelaciones y más">
                     <img src="assets/proyectos/acabados/gal/acabado5.jpg" alt="" class="imgmax">
                 </a>
             </div>
             <div class="w3-col m4 s6 mitadder">
-                <a href="assets/proyectos/acabados/acabado6.jpg" data-lightbox="image-1" data-title="My caption">
+                <a href="assets/proyectos/acabados/acabado6.jpg" data-lightbox="acabados" data-title="Acabados, remodelaciones y más">
                     <img src="assets/proyectos/acabados/gal/acabado6.jpg" alt="" class="imgmax">
                 </a>
             </div>
@@ -216,8 +216,7 @@
     </section>
 
     <section id="lo-que-hacemos">
-    <span id="galeria"></span>
-        <div class="contenido">
+        <div class="contenido"><br>
             <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
             <div class="swiper">
                 <div class="swiper-wrapper">
