@@ -160,13 +160,11 @@ nav .logo {
 	margin: 0 auto 100px
 }
 
-#banner-principal .banner-principal {
+#banner-principal .swiper1 .banner-principal {
     background-image: url(assets/hablemos-de-construir.svg), url(assets/principal.jpg); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: 500px, cover;
-	height: 600px;
-	margin-bottom: 100px
 }
 
 #banner-principal .txtamarillo {
@@ -328,7 +326,7 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#valores .w3-row img {width: 140px;}
 	#contacto-seccion form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
-	#banner-principal .banner-principal {
+	#banner-principal .swiper1 .banner-principal {
 		background-size: 350px, cover;
 		height: 400px
 	}
