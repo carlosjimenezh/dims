@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="swiper/swiper-bundle.min.css">
-    <link rel="stylesheet" href="js/lightbox2-2.11.3/src/css/lightbox.css">
+    <link rel="stylesheet" href="lightbox/css/lightbox.css">
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
+    <link rel="shortcut icon" href="favicon.png">
     <link href="http://fonts.cdnfonts.com/css/sangharia" rel="stylesheet">
     <script src="js/jquery.min.js" type="text/javascript"></script>
     <script src="js/jquery-ui.min.js" type="text/javascript"></script>
     <script src="js/jquery.touchSwipe.min.js"></script>
-    <script src="js/lightbox2-2.11.3/src/js/lightbox.js"></script>
+    <script src="lightbox/js/lightbox.js"></script>
     <style>
         .swiper-slide {
         background-position: center;
