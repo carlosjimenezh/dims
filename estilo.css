@@ -382,7 +382,8 @@ footer .contacto {text-align: right; font-weight: bold;}
 }
 @font-face {
     font-family: 'ptsans';
-    src: url('fuentes/ptsans-bold.woff2') format('woff2');
+    src: url('fuentes/ptsans-bold.woff') format('woff'), url('fuentes/ptsans-bold.woff2') format('woff2');
+		 
 	font-weight: bold;
     font-style: normal;
 }
