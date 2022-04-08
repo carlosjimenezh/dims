@@ -59,9 +59,6 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
-.swiper1 .swiper-slide {
-	height: 600px;
-}
 .swiper2 .swiper-slide { 
 	border-radius:5px ; 
 	-webkit-border-radius:5px ; 
@@ -161,6 +158,12 @@ nav .logo {
 }
 
 #banner-principal .swiper1 .banner-principal {
+	background-repeat: no-repeat;
+	height: 600px;
+	margin-bottom: 100px
+}
+
+#banner-principal .swiper1 .banner-principal:first-of-type {
     background-image: url(assets/hablemos-de-construir.svg), url(assets/principal.jpg); 
     background-repeat: no-repeat;
     background-position: center;
@@ -327,8 +330,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 	#contacto-seccion form .mitadder{margin-top: 0}
 	footer ul {padding-left: 0}
 	#banner-principal .swiper1 .banner-principal {
+		height: 400px;
+	}
+	#banner-principal .swiper1 .banner-principal:first-of-type {
 		background-size: 350px, cover;
-		height: 400px
 	}
 	#servicios .mitadizq, #servicios .mitadcentro, #servicios .mitadder {
 		margin: 0;
