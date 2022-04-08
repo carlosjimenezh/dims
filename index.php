@@ -44,7 +44,7 @@
             }
         }
 	</script>
-    <title>Dims</title>
+    <title>DIMS Construcciones</title>
 </head>
 <body> 
     <!-- Script para el efecto slow scroll  -->
@@ -74,15 +74,15 @@
         <span id="nosotros" style="margin-top: -60px; position:absolute"></span>
         <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
-                <h2>Nosotros</h2>
+                <h2>Nosotros</h2><br>
                 <strong class="txtamarillo">DIMS S.A. DE C.V.</strong> 
                 <div style="text-align: justify; text-align-last:center">
-                    Somos una empresa dedicada a la planeación y ejecución de proyectos constructivos. Fundada en la ciudad de Ensenada, Baja California en el año 2017. <br>
+                    Somos una empresa dedicada a la planeación y ejecución de proyectos constructivos. Fundada en la ciudad de Ensenada, Baja California en el año 2017.<br><br>
                     Destaca nuestra honestidad, ingenio y la calidad en nuestros servicios. Si deseas invertir en una propiedad, hablemos de construir.
                 </div>
             </div>
-            <div class="w3-half mitadder">
-                <h2>Misión</h2>
+            <div class="w3-half mitadder"><br>
+                <h2>Misión</h2><br>
                 <strong class="txtamarillo">Misión</strong> 
                 <div style="text-align: justify; text-align-last:center">
                     Brindar soluciones creativas y facilitar los procesos constructivos para asegurar el éxito de los proyectos de nuestros clientes.
@@ -128,6 +128,7 @@
     </section>
 
     <section id="servicios" class="contenido fgris">
+    	<span id="galeria" style="margin-top: -60px; position:absolute"></span>
         <h2 class="contenido contenido-small w3-center">Servicios</h2>
         <div class="contenido-small" style="margin: 80px auto 15px;">
             <h1>Proyectos Habitacionales o comerciales</h1>
@@ -285,7 +286,7 @@
 				else
 					echo "<br><br><div class=\"aviso txtazul\">Hubo un error al enviar su mensaje, 
                     inténtelo de nuevo o escríbanos a <span style=\"font-family:arial, 
-                    sans-serif\">ventas@.com</span></div><br><br><br>";
+                    sans-serif\">hablemos@dimsconstruye.mx</span></div><br><br><br>";
 				
 			}
 			else
