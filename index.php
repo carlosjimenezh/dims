@@ -70,7 +70,11 @@
     <?php include('header.php'); ?>
 
     <section id="banner-principal" class="fgris">
-        <div class="banner-principal"></div>
+        <div class="swiper1">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide" style="background-image: url(assets/hablemos-de-construir.svg), url(assets/principal.jpg)"></div>
+            </div>
+        </div>
         <span id="nosotros" style="margin-top: -60px; position:absolute"></span>
         <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
@@ -218,7 +222,7 @@
     <section id="lo-que-hacemos">
         <div class="contenido"><br>
             <h4 class="txtamarillo w3-center">Lo que hacemos</h4>
-            <div class="swiper">
+            <div class="swiper2">
                 <div class="swiper-wrapper">
                     <?php 
                         $dir_name = 'assets/fotos/';
@@ -321,7 +325,24 @@
     <?php include('footer.html'); ?>
     <script src="swiper/swiper-bundle.min.js"></script>
     <script>
-        var swiper = new Swiper('.swiper', {
+        var swiper1 = new Swiper('.swiper1', {
+            spaceBetween: 30,
+            speed: 800,
+            disableOnInteraction: false,
+            effect: 'fade',
+            adeEffect: {
+                crossFade: true
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            autoplay: {
+                delay: 3000,
+            }
+        }
+        );
+        var swiper2 = new Swiper('.swiper2', {
         effect: 'coverflow',
         slidesPerView: 2,
         grabCursor: true, 
