@@ -72,7 +72,9 @@
     <section id="banner-principal" class="fgris">
         <div class="swiper1">
             <div class="swiper-wrapper">
-                <div class="swiper-slide" style="background-image: url(assets/hablemos-de-construir.svg), url(assets/principal.jpg)"></div>
+                <div class="swiper-slide banner-principal"></div>
+                <div class="swiper-slide banner-principal" style="background-image: url(assets/principal2.jpg);"></div>
+                <div class="swiper-slide banner-principal" style="background-image: url(assets/principal3.jpg);"></div>
             </div>
         </div>
         <span id="nosotros" style="margin-top: -60px; position:absolute"></span>
