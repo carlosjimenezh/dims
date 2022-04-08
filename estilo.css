@@ -344,10 +344,10 @@ footer .contacto {text-align: right; font-weight: bold;}
 		font-size: 30px;
 		line-height: .7
 	}
-	.swiper-slide {
+	.swiper2 .swiper-slide {
 		height: 200px!important; 
 	}
-	.swiper-slide-active {
+	.swiper2 .swiper-slide-active {
 		margin-left: -10%!important;
 		width: 70%!important;
 	}
