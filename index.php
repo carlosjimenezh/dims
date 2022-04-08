@@ -345,5 +345,16 @@
         slideToClickedSlide: true,
         });
     </script>
+    
+    
+
+	<script>
+        lightbox.option({
+          'albumLabel': "Imagen %1 de %2",
+          'wrapAround': true
+        })
+    </script>
+
+
 </body>
 </html>
