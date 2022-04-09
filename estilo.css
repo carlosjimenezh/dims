@@ -59,6 +59,8 @@ ul {padding-inline-start:15px}
 .wa-icon {bottom: 30px; right: 55px;}
 .icon-fixed img {width: 70px;}
 .ubicacion {font-family: 'Sangharia', sans-serif; font-size:40px; font-weight:100}
+.swiper-pagination-bullet{background: #7b2f19; border:solid thin #7b2f19; opacity: 1; width:14px; height:14px}
+.swiper-pagination-bullet-active{background: #f1a042; border:solid thin #f1a042; opacity: 1} 
 .swiper2 {overflow: hidden;}
 .swiper2 .swiper-slide { 
 	border-radius:5px ; 
