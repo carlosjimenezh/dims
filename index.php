@@ -77,6 +77,7 @@
                 <div class="swiper-slide banner-principal" style="background-image: url(assets/principal3.jpg);"></div>
             </div>
         </div>
+        <div class="swiper-pagination"></div>
         <span id="nosotros" style="margin-top: -60px; position:absolute"></span>
         <div class="w3-row w3-center contenido contenido-small">
             <div class="w3-half mitadizq">
